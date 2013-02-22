@@ -13,3 +13,9 @@
 [submodule "cookbooks/ruby_build"]
 	path = cookbooks/ruby_build
 	url = git://github.com/fnichol/chef-ruby_build.git
+[submodule "cookbooks/postgresql"]
+	path = cookbooks/postgresql
+	url = git://github.com/opscode-cookbooks/postgresql.git
+[submodule "cookbooks/openssl"]
+	path = cookbooks/openssl
+	url = git://github.com/opscode-cookbooks/openssl.git
