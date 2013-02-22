@@ -1,3 +1,6 @@
 [submodule "cookbooks/apt"]
 	path = cookbooks/apt
 	url = git://github.com/opscode-cookbooks/apt.git
+[submodule "cookbooks/hw-chef-locale"]
+	path = cookbooks/hw-chef-locale
+	url = git@github.com:argent-smith/hw-chef-locale.git
