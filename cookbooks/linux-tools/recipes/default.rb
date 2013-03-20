@@ -7,3 +7,7 @@
 
 package "mc"
 package "htop"
+package "screen"
+package "vim"
+package "git"
+package "tig"

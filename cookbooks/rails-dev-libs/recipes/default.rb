@@ -7,3 +7,5 @@
 
 package "libqt4-dev"
 package "libqtwebkit-dev"
+package "libcurl3-dev"
+package "imagemagick"
