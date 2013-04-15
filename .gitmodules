@@ -25,3 +25,6 @@
 [submodule "cookbooks/phantomjs"]
 	path = cookbooks/phantomjs
 	url = git://github.com/customink-webops/phantomjs.git
+[submodule "cookbooks/mysql"]
+	path = cookbooks/mysql
+	url = git://github.com/opscode-cookbooks/mysql.git
