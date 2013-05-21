@@ -31,3 +31,6 @@
 [submodule "cookbooks/redis"]
 	path = cookbooks/redis
 	url = git://github.com/CXInc/chef-redis.git
+[submodule "cookbooks/mongodb"]
+	path = cookbooks/mongodb
+	url = git://github.com/edelight/chef-mongodb.git
