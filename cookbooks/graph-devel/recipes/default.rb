@@ -19,3 +19,4 @@
 
 package 'libcairo2-dev'
 package 'libpango1.0-dev'
+package 'defoma'
