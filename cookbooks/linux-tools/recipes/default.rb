@@ -8,6 +8,7 @@
 package "mc"
 package "htop"
 package "screen"
+package "tmux"
 package "vim"
 package "git"
 package "tig"
