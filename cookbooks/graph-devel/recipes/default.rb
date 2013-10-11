@@ -20,3 +20,4 @@
 package 'libcairo2-dev'
 package 'libpango1.0-dev'
 package 'defoma'
+package 'graphicsmagick-libmagick-dev-compat'
